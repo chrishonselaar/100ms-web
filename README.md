@@ -15,8 +15,9 @@ This is an example React app to demo [100ms' React SDK](https://www.npmjs.com/pa
 Not using React? Find the [Javascript Quickstart here](https://docs.100ms.live/javascript/v2/guides/javascript-quickstart).
 
 # Table of Contents
-* [Getting Started](https://github.com/100mslive/100ms-web/wiki/Getting-Started)
-* [Creating and Joining a Room](https://github.com/100mslive/100ms-web/wiki/Creating-and-joining-a-room)
-* [Customizing your app](https://github.com/100mslive/100ms-web/wiki/Customizing-your-app)
-* [Building and deployment](https://github.com/100mslive/100ms-web/wiki/Building-and-deployment)
-* [Further Reading](https://github.com/100mslive/100ms-web/wiki/Further-reading)
+
+- [Getting Started](https://github.com/100mslive/100ms-web/wiki/Getting-Started)
+- [Creating and Joining a Room](https://github.com/100mslive/100ms-web/wiki/Creating-and-joining-a-room)
+- [Customizing your app](https://github.com/100mslive/100ms-web/wiki/Customizing-your-app)
+- [Building and deployment](https://github.com/100mslive/100ms-web/wiki/Building-and-deployment)
+- [Further Reading](https://github.com/100mslive/100ms-web/wiki/Further-reading)
