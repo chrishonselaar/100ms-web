@@ -31,3 +31,7 @@ hs_*.log
 /.gitignore
 /yarn.lock
 /.yarnrc.yml
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/100ms-web/v17/.wsuo
+/.vs/100ms-web/v17/workspaceFileList.bin
