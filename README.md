@@ -4,6 +4,8 @@
   <img src="https://github.com/100mslive/100ms-ios-sdk/blob/main/100ms.svg" title="100ms logo" float=center height=256>
 </p>
 
+https://100ms-web-mu.vercel.app/meeting/nyl-jios-ioo
+http://localhost:2000/preview/nyl-jios-ioo
 
 # 100ms 2.0 Sample React App
 
